@@ -3,7 +3,7 @@
     "name": "Context menu: Copy link 'url' url parameter",
     "description": "Add a context menu option to links to copy the link's 'url' url parameter to the clipboard, as plain text and as a link in rich HTML.",
     "version": "1.0",
-    "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/context-menu-copy-link-with-types",
+    "homepage_url": "https://github.com/Paul-31415/simple-skip-redir-webext",
 
     "background": {
         "scripts": [

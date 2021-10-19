@@ -3,7 +3,8 @@
 This example adds a context menu item to every link that copies the 'url'
 url parameter to the clipboard, or, if it doesn't exist, the URL itself.
 It copies it as plain text and as rich HTML.
-It's a simple modification to the "Context menu: Copy link with types"
+It's a simple modification to the "[Context menu: Copy link with types]
+(https://github.com/Paul-31415/simple-skip-redir-webext)"
 webextension example.
 
 ## Why?
